@@ -1,6 +1,5 @@
-# Riff Stereo 
+# [Riffster.io](http://www.riffster.io/) aka Riff Stereo 
 
-## [Riffster.io](http://www.riffster.io/)
 
 ### Published Riffs
 ![alt](https://github.com/mimlowe/mimlowe.github.io/blob/master/img/riffster_1.png)
